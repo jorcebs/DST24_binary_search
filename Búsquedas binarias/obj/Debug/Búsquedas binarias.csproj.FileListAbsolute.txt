@@ -1,0 +1,10 @@
+E:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\bin\Debug\Búsquedas binarias.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\bin\Debug\Búsquedas binarias.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\bin\Debug\Búsquedas binarias.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\bin\Debug\Búsquedas binarias.pdb
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\obj\Debug\Búsquedas binarias.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\obj\Debug\Búsquedas_binarias.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\obj\Debug\Búsquedas_binarias.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\obj\Debug\Búsquedas binarias.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\obj\Debug\Búsquedas binarias.exe
+G:\Facu\4to semestre\Estructura de Datos\Prácticas\Búsquedas binarias\Búsquedas binarias\obj\Debug\Búsquedas binarias.pdb
